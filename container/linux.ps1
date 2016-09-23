@@ -1,0 +1,1 @@
+docker run --privileged -v C:/:/windows/C/ -d --restart=always --net=host --name linux testssh

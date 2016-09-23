@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/2/trunk/lnk_parser_cmd
+END
+lnk_parser_cmd.sln
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/lnk_parser_cmd/lnk_parser_cmd.sln
+END
+property_store.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/lnk_parser_cmd/property_store.cpp
+END
+csv_configuration.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/lnk_parser_cmd/csv_configuration.cpp
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/lnk_parser_cmd/main.cpp
+END
+lnk_parser_cmd.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/lnk_parser_cmd/lnk_parser_cmd.vcproj
+END
+globals.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/lnk_parser_cmd/globals.h
+END
+pidl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/lnk_parser_cmd/pidl.cpp
+END
+utilities.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/lnk_parser_cmd/utilities.cpp
+END
+shortcut.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/lnk_parser_cmd/shortcut.cpp
+END
+lpc.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/lnk_parser_cmd/lpc.cfg
+END
